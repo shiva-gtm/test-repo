@@ -1,2 +1,2 @@
 # test-repo
-Test repo to practice git 
+Test repo to practice git and github.
